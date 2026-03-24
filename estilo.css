@@ -2,9 +2,14 @@
 
 :root{
     --cor-de-fundo: #FE81D4;
-     --cor-de-fundo: #FAACBF;
+     --cor-de-texto-principal: #540015;
+     --cor-de-texto-secundario: #BD114A;
+     --botao-ativo: #237227;
+     --botao-inativo: #1C0770;
 }
 
 body{
+    background: var(--cor-de-fundoe);
+    color: var(--cor-texto-principal);
      font-family: "Bitcount Grid Double Ink", system-ui;
 }
