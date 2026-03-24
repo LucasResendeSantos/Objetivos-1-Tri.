@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap');
 
+:root{
+    --cor-de-fundo: #FE81D4;
+     --cor-de-fundo: #FAACBF;
+}
 
 body{
      font-family: "Bitcount Grid Double Ink", system-ui;
