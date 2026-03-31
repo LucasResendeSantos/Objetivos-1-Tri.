@@ -3,7 +3,7 @@
 :root{
     --cor-de-fundo: #000000;
      --cor-de-texto-principal: #540015;
-     --cor-de-texto-secundario: #BD114A;
+     --cor-de-texto-secundario: #ff0011;
      --botao-ativo: #237227;
      --botao-inativo: #1C0770;
 }
@@ -26,4 +26,7 @@ body{
     text-align: left;
     width: 100%;
     font-size: 32px;
+}
+.titulo-principal span{
+    color: rgb(81, 0, 255);
 }
