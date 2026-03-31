@@ -9,7 +9,7 @@
 }
 
 body{
-    background: var(--cor-de-fundoe);
+    background: var(--cor-de-fundo);
     color: var(--cor-texto-principal);
     font-family: "Bitcount Grid Double Ink", system-ui;
 }
