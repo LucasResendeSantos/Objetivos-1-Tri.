@@ -43,3 +43,7 @@ body{
     border-bottom: 2px solid var(--botao-ativo);
     border-bottom: 2px solid var(--botao-ativo);
 }
+
+.botao:first-child{
+    border-radius: 40px 40px 0 0;
+}
