@@ -56,6 +56,9 @@ body{
 .aba-conteudo.ativo{
     display: block;
 }
+.aba-conteudo{
+    display: nome;
+}
 
 .abas-texto{
     background-color: var(--botao-inativo);
