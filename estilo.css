@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap');
 
 :root{
-    --cor-de-fundo: #12e6d4;
+    --cor-de-fundo: #ffffff;
      --cor-de-texto-principal: #ffffff00;
      --cor-de-texto-secundario: #ff0011;
      --botao-ativo: #ffffff;
-     --botao-inativo: #2803bf;
+     --botao-inativo: #8fdbe7;
 }
 
 body{
