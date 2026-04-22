@@ -1,4 +1,4 @@
-v'@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap');
 
 :root{
     --cor-de-fundo: #ffffff;
@@ -67,18 +67,19 @@ font-family: "Arial, Helvetica, sans-serif", system-ui;
 }
 .conteudo-titulo-principal{
     font-size: 20px;
-    text-align: center;wqas 
+    text-align: center;
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width: 768px) {
     .botoes{
         display: flex;
-    }
+}
     .botao:first-child{
     border-radius: 40px 0 0 0;
 }
     .botao:last-child{
     border-radius: 0 40px 0 0
+}
 }
 .contador-digito{
     display:flex;
