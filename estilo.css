@@ -57,7 +57,7 @@ font-family: "Arial, Helvetica, sans-serif", system-ui;
     display: block;
 }
 .aba-conteudo{
-    display: nome;
+    display: none;
 }
 
 .abas-texto{
